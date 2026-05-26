@@ -2,6 +2,8 @@
 
 An interactive flower arrangement builder. Choose from 12 flower types and 8 different vases to compose your personalized bouquet.
 
+<img width="1057" height="708" alt="image" src="https://github.com/user-attachments/assets/17c98c09-46b0-4055-999a-a9e32ffe8a14" />
+
 ## Features
 
 - 12 hand-drawn flowers with sketch SVG effect (feTurbulence filter)
